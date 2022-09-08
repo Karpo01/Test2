@@ -1,0 +1,51 @@
+h1{ 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+
+#h21 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 40px;
+    color: aliceblue;
+    background-color: brown; 
+    }
+#h21 img{
+    cursor:pop;
+    width: 10cm;
+    border: solid;
+    border-color: black;
+    border-radius:30cm;
+    border-style: hidden;
+    padding:-2cm;
+    }
+
+#h21 p{
+    font-size: 20px;
+    padding: 2cm;
+    }
+
+
+
+#h22{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1cm;
+    color: white;
+    background-color: crimson;
+    }   
+#h22 p{
+    padding: 1cm;
+}
+
+#h23{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1cm;
+    color: white;
+    background-color: black;
+    }
+    
+#h23 p{ 
+    padding: 0,5cm;
+}
